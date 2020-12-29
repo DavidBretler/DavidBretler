@@ -1,8 +1,8 @@
-### hello 👋 I'm David
+### Hello 👋 I'm David
 Junior developer and a  third year Computer Science student 
 
 - 🔭 I’m currently working on  a real time app to manage rides 
-- 🌱 I’m currently learning java and  algoritems
+- 🌱 I’m currently learning java and  Algorithms
 - 👯 I’m looking to a job in developing .
 
 <!--
